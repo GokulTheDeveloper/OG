@@ -4,5 +4,6 @@ public class firstOne {
         return 'Hello from firstOne class!!';
         System.debug("Hey there!!");
         System.debug("feature commit");
+        System.debug("feature 2");
     }
 }
